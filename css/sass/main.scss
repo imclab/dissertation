@@ -39,15 +39,15 @@ body {
 body {
     margin: 0 auto;
     padding: 60px 30px;
-    *width: 720px;
-    max-width: 720px;
+    *width: 600px;
+    max-width: 600px;
 }
 
 h1, h2, h3 {
 
 }
 
-p {
+p, ul {
     @include line-height(24);
 }
 
