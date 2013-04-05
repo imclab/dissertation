@@ -12,13 +12,21 @@ This dissertation looks at the design issues surrounding ubiquitous computing.
 Aims and problem - what did you investigate and what problem were you trying to solve?
 Methods - what research methods did you use?
 Results - what did you discover?
-Conclusions - what are the implications of your discoveries?## A Vision from the Past## Everyware## A Different Mode of Interaction
+Conclusions - what are the implications of your discoveries?
+
+## A Vision from the Past
+
+## Everyware
+
+## A Different Mode of Interaction
 
 Despite the drastic improvements in the speed, power and cost of computational devices over the last century, their form and the manner in which we interact with them have changed very little. The recent mobile revolution saw the “age of beige boxes” (Dourish, Page 27, Where the Action Is) give way to an “obsession with glowing rectangles” (The Onion), such transitions are hardly akin to metamorphoses. Everyware brings with it not only a drastic change in the appearance of computing, but also a completely different mode of interaction; one that, together with the hardware, embeds and embodies itself in the physical world.
 
 This arrival at what has become known as ‘tangible’ computing was not abrupt. Incremental developments in human-computer interaction, since the computers own conception, have led us here. Paul Dourish gives an insightful rundown of this evolution – telling us where the action was – in his book titled “Where the Action Is”. He traces it right back to the electrical configuration of early computational hardware and basic symbolic instruction using punchcards, through to textual input via the green glare of the command line and the familiar metaphorical, two-dimensional realm of the graphical user interface. He notes that despite the disjointed, apparently sporadic advancement of interaction methods and models; with each step comes a “gradual incorporation of a wider range of human skills and abilities” (Dourish, Page 14, Where the Action Is). The end goal of which is to realise a form of computational interaction that is intuitive, uncomplicated and “integrated into our daily lives”. Abstraction became integration. Fundamentally, the computer has been adapted and changed to suit the users wants and needs, inline with our predefined, psychologically and physiologically determined skills and abilities.
 
-To do so, manifestations of tangible computing will need to cater to, exploit and potentially enhance our humanness – to employ learnings regarding how we perceive, interact with, and interact in the world. Dourish states that “we act in the world by exploring its physical affordances” (Dourish, Page 18, Where the Action Is) – the term ‘affordance’ has its roots in psychology and was defined by Gibson: “The affordances of the environment are what it offers the animal, what it provides or furnishes, either for good or ill” (Gibson, Page 127, The Ecological Approach to Visual Perception).## Affording a Future
+To do so, manifestations of tangible computing will need to cater to, exploit and potentially enhance our humanness – to employ learnings regarding how we perceive, interact with, and interact in the world. Dourish states that “we act in the world by exploring its physical affordances” (Dourish, Page 18, Where the Action Is) – the term ‘affordance’ has its roots in psychology and was defined by Gibson: “The affordances of the environment are what it offers the animal, what it provides or furnishes, either for good or ill” (Gibson, Page 127, The Ecological Approach to Visual Perception).
+
+## Affording a Future
 
 current design
 
@@ -38,4 +46,12 @@ During this silent, but persistent revolution, we will need  calm, usable techno
 
 The time (and thus money) required to make websites usable for users not themselves further hindered by a disability, giving rise to issues of accessibility, . Technology often trumps usability and as developers are beguiled by the shiny new toys that the Today’s browser vendors .
 
-The term ‘affordance’ has its roots in psychology and was defined by Gibson: “The affordances of the environment are what it offers the animal, what it provides or furnishes, either for good or ill” (Gibson, Page 127, The Ecological Approach to Visual Perception).## Beyond the Touch Screen## Signage of the Times## Conclusion### Word count: 1087
+The term ‘affordance’ has its roots in psychology and was defined by Gibson: “The affordances of the environment are what it offers the animal, what it provides or furnishes, either for good or ill” (Gibson, Page 127, The Ecological Approach to Visual Perception).
+
+## Beyond the Touch Screen
+
+## Signage of the Times
+
+## Conclusion
+
+### Word count: 1087

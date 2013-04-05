@@ -8,14 +8,14 @@ touch $FILE
 
 FILEPATH=~/Dropbox/University/Dissertation/Structure/Content
 
-cat $FILEPATH/abstract.md >> $FILE && printf "\r\r" >> $FILE
+cat $FILEPATH/abstract.md >> $FILE && printf "\r\n\n" >> $FILE
 for file in $FILEPATH/Chapters/*.md
 do
   if [ -s "$file" ]
   then
-    cat "$file" >> $FILE && printf "\r\r" >> $FILE
+    cat "$file" >> $FILE && printf "\r\n\n" >> $FILE
   fi
 done
-cat $FILEPATH/conclusion.md >> $FILE  && printf "\r\r" >> $FILE
+cat $FILEPATH/conclusion.md >> $FILE  && printf "\r\n\n" >> $FILE
 
 wc -w $FILE | awk {'printf "### Word count: "$1'} >> $FILE
