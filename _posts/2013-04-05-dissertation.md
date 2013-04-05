@@ -38,4 +38,4 @@ During this silent, but persistent revolution, we will need  calm, usable techno
 
 The time (and thus money) required to make websites usable for users not themselves further hindered by a disability, giving rise to issues of accessibility, . Technology often trumps usability and as developers are beguiled by the shiny new toys that the Today’s browser vendors .
 
-The term ‘affordance’ has its roots in psychology and was defined by Gibson: “The affordances of the environment are what it offers the animal, what it provides or furnishes, either for good or ill” (Gibson, Page 127, The Ecological Approach to Visual Perception).## Beyond the Touch Screen## Signage of the Times## Conclusion**Word count: 1087**
+The term ‘affordance’ has its roots in psychology and was defined by Gibson: “The affordances of the environment are what it offers the animal, what it provides or furnishes, either for good or ill” (Gibson, Page 127, The Ecological Approach to Visual Perception).## Beyond the Touch Screen## Signage of the Times## Conclusion### Word count: 1087

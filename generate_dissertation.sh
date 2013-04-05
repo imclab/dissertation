@@ -16,6 +16,6 @@ do
     cat "$file" >> $FILE && printf "\r\r" >> $FILE
   fi
 done
-cat $FILEPATH/conclusion.md >> $FILE  && printf "\r\r\r" >> $FILE
+cat $FILEPATH/conclusion.md >> $FILE  && printf "\r\r" >> $FILE
 
-wc -w $FILE | awk {'print "**Word count: " $1 "**"'} >> $FILE
+wc -w $FILE | awk {'print "### Word count: " $1'} >> $FILE
