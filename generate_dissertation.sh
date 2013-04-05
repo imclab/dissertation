@@ -1,6 +1,8 @@
 #!/bin/bash
 
-FILE=$(date '+%Y-%m-%d')-dissertation.md
+rm _posts/*-dissertation.md
+
+FILE=_posts/$(date '+%Y-%m-%d')-dissertation.md
 
 echo $'---\rtitle: Dissertation\r---\r\r' > $FILE
 
