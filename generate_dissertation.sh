@@ -4,7 +4,7 @@ rm _posts/*-dissertation.md
 
 FILE=_posts/$(date '+%Y-%m-%d')-dissertation.md
 
-echo $'---\rtitle: Dissertation\r---\r\r' > $FILE
+touch $FILE
 
 FILEPATH=~/Dropbox/University/Dissertation/Structure/Content
 
