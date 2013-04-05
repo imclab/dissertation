@@ -4,7 +4,7 @@
 
 $color: #222;
 $font-size: 14;
-$font-family: helvetica, arial, verdana, sans-serif;
+$font-family: garamond, georgia, serif;
 $text-highlight-color: #b3d4fc;
 
 html {
@@ -48,7 +48,7 @@ h1, h2, h3 {
 }
 
 p {
-
+    @include line-height(24);
 }
 
 @import "media-queries";

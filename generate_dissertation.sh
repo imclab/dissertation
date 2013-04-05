@@ -18,4 +18,4 @@ do
 done
 cat $FILEPATH/conclusion.md >> $FILE  && printf "\r\r" >> $FILE
 
-wc -w $FILE | awk {'print "### Word count: " $1'} >> $FILE
+wc -w $FILE | awk {'printf "### Word count: "$1'} >> $FILE
