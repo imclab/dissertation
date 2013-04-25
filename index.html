@@ -4,13 +4,15 @@ layout: default
 
 {% for post in site.posts %}
 
-  <article class="post">
+  <article id="dissertation">
 
-    <header>
+    <header class="header">
 
       <h1 class="title">{{ post.title }}</h1>
 
       <h2 class="description">This is a dissertation.</h2>
+
+      <p class="author">By <a href="http://twitter.com/saulhardman" title="Learn more about the author, Saul Hardman, via Twitter" rel="author">Saul Hardman</a></p>
 
       <time class="date" datetime="{{ post.date | date: '%Y-%m-%d' }}">Last updated on: {{ post.date | date: "%d/%m/%Y" }}</time>
 

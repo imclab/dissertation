@@ -1,0 +1,32 @@
+{
+  "name": "dissertation",
+  "preferGlobal": "true",
+  "version": "0.0.3",
+  "description": "An open source dissertation about the inherant design problems in Ubiquitous Computing",
+  "author": "Saul Hardman <hello@iamsaul.co.uk> (http://iamsaul.co.uk)",
+  "contributors": [],
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saulhardman/dissertation.git"
+  },
+  "homepage": "https://saulhardman.github.io/dissertation",
+  "bugs": {
+    "url": "https://github.com/saulhardman/dissertation/issues",
+    "email": "hello@iamsaul.co.uk"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "keywords": [
+    "dissertation"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-regarde": "~0.1.1",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-concat": "~0.2.0"
+  }
+}

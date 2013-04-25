@@ -51,4 +51,21 @@ p, ul {
     @include line-height(24);
 }
 
+blockquote {
+    margin: 0 0 0 -10px;
+    padding: 10px;
+    font-family: helvetica, arial, verdana, serif;
+    @include font-size(12);
+    background: #e5e5e5;
+
+    &:before {
+        content: "Notes: ";
+        font-weight: 600;
+    }
+
+    p {
+        margin: 10px 0 0;
+    }
+}
+
 @import "media-queries";
